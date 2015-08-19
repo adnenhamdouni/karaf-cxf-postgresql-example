@@ -1,0 +1,8 @@
+/home/adnen/Documents/workspaces/jee/spring/dbkarafgit/person/person-template/src/main/java/com/person/service/impl/JsonResponseServiceImpl.java
+/home/adnen/Documents/workspaces/jee/spring/dbkarafgit/person/person-template/src/main/java/com/person/model/JsonResponseResult.java
+/home/adnen/Documents/workspaces/jee/spring/dbkarafgit/person/person-template/src/main/java/com/person/model/ConsolidatedSearchResult.java
+/home/adnen/Documents/workspaces/jee/spring/dbkarafgit/person/person-template/src/main/java/com/person/camel/beans/ResultAggregator.java
+/home/adnen/Documents/workspaces/jee/spring/dbkarafgit/person/person-template/src/main/java/com/person/rest/RestService.java
+/home/adnen/Documents/workspaces/jee/spring/dbkarafgit/person/person-template/src/main/java/com/person/camel/beans/RestToBeanRouter.java
+/home/adnen/Documents/workspaces/jee/spring/dbkarafgit/person/person-template/src/main/java/com/person/service/base/JsonResponseService.java
+/home/adnen/Documents/workspaces/jee/spring/dbkarafgit/person/person-template/src/main/java/com/person/rest/RestServiceImpl.java

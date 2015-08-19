@@ -1,0 +1,8 @@
+com/person/service/base/JsonResponseService.class
+com/person/model/JsonResponseResult.class
+com/person/camel/beans/ResultAggregator.class
+com/person/service/impl/JsonResponseServiceImpl.class
+com/person/model/ConsolidatedSearchResult.class
+com/person/rest/RestService.class
+com/person/rest/RestServiceImpl.class
+com/person/camel/beans/RestToBeanRouter.class
